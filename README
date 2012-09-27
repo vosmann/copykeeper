@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+------------------------------------Copykeeper----------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+A python script used to keep backups of data.
+
+It's directed to two top-level directories. One is the "accumulate" directory
+and the other is an "overwrite" directory. 
+The former should contain file types that are rarely or never modified, such as
+videos, audio files, books, etc.
+The latter should contain often-modified files such as text documents, source
+code and other.
